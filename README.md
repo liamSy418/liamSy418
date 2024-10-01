@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @liamSy418
 - Pronouns: He/him
-- Can program in: Python, Java, C++, Kotlin, React
-- Favorite video games: Celeste, Slay the Spire, FFVI, Chrono Trigger, Dead Cells
+- Python, Java, C++, Kotlin, React
+- Favorite video games: Celeste, Slay the Spire, Astro Bot, FFVI, Chrono Trigger, Dead Cells, Balatro
 - I have way too much free time
-- FRC 1678 Software Scouting Back-end developer
+- FRC 1678 Software Scouting back-end developer
 - Phenoscout lead front-end developer
 
 <!---
