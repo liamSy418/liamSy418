@@ -5,6 +5,9 @@
 - I have way too much free time
 - FRC 1678 Software Scouting back-end developer
 - Phenoscout lead front-end developer
+- Avid en passant googler
+- Avid hole firer
+- On my 8th lobotomy 😄
 
 <!---
 liamSy418/liamSy418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
